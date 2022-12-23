@@ -1,0 +1,56 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #D7C0AE !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #D7C0AE;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #fff;
+}
+
+.newbtn {
+    border: none;
+	color: #D7C0AE;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.newbtn1 {
+    border: none;
+	color: white;
+    background-color: #D7C0AE;
+    border-radius: 0.3rem;
+    padding: 0.8rem;
+}
